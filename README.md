@@ -1,10 +1,22 @@
-<img align="center"  width="900" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGo0NGh0aDlmN2UxZmZ6ZmR4OW5nZjlwdjlyYjExemlyNnBnNnMybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif" />
+<img align="center" width="900" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGo0NGh0aDlmN2UxZmZ6ZmR4OW5nZjlwdjlyYjExemlyNnBnNnMybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif" />
 <br/>
 
-<div style="text-align: center;">
-    <a href="https://github.com/oakoudad/badge42">
-        <img src="https://badge.mediaplus.ma/levi/hakader" alt="hakader's 42 stats" />
-    </a>
+<!-- Badge & Most Used Languages Side by Side -->
+<div align="center">
+    <table>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/oakoudad/badge42">
+                    <img src="https://badge.mediaplus.ma/levi/hakader" alt="hakader's 42 stats" />
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/anuraghazra/github-readme-stats">
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0mz0&hide_title=1&layout=compact&theme=dark" alt="Top Langs" />
+                </a>
+            </td>
+        </tr>
+    </table>
 </div>
 
 <h3 align="center">Skills / Tools</h3>
@@ -34,7 +46,7 @@
 <h3 align="center">Social Network</h3>
 
 <div align="center">
-  <a href="hamzared2500@gmail.com" target="_blank">
+  <a href="mailto:hamzared2500@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://x.com/HamzaKa01872479" target="_blank">
@@ -45,19 +57,10 @@
   </a>
 </div>
 
-###
-
-<p align='center'><b>Most Used Languages</b></p>
-
-<p align='center'>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0mz0&hide_title=1&layout=compact&theme=dark" alt="Top Langs" />
-</a>
-</p>
+##
 
 <p align='right'><b>Github Profile Views</b></p>
 
-##
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=9999&color=4EF702&lines=Follow+me+daddy...)](https://git.io/typing-svg) <img align='right' src="https://profile-counter.glitch.me/h0mz0/count.svg" alt="Visitor Count">
 
 <!---
@@ -66,11 +69,4 @@ https://readme-typing-svg.herokuapp.com/demo/
 https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
 https://github.com/kittinan/spotify-github-profile
 https://github.com/anuraghazra/github-readme-stats
-
-<p align='center'>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=ComlanGiovanni&show_icons=true&theme=dark&hide=issues" alt="GitHub stats" />
-</a>
-</p>
-
 --->
