@@ -61,7 +61,7 @@
 
 <p align='right'><b>Github Profile Views</b></p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=9999&color=4EF702&lines=Follow+me+daddy...)](https://git.io/typing-svg) <img align='right' src="https://profile-counter.glitch.me/h0mz0/count.svg" alt="Visitor Count">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=9999&color=4EF702&lines=Follow+me...)](https://git.io/typing-svg) <img align='right' src="https://profile-counter.glitch.me/h0mz0/count.svg" alt="Visitor Count">
 
 <!---
 https://giphy.com/
